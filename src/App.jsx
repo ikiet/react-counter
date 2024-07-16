@@ -14,7 +14,6 @@ function App() {
     setChosenCount(newValue);
   }
 
-  console.log(chosenCount);
   return (
     <>
       <Header />
